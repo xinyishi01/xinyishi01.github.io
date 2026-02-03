@@ -4,4 +4,6 @@ Disallow: /
 
 Disallow: /categories/
 
+Disallow: /icpc/
+
 Disallow: /tags/
